@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anne Daberechi Nnamani
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Lovers all of the World
+- 💞️ I’m looking to collaborate with Data Lovers all of the World
 - 📫 How to reach me Dabereannie@gmail.com
 
 <!---
